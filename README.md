@@ -1,2 +1,2 @@
-# OnlineElectronics
-Online_Electronics_Store
+# Online-Electronic-Shop
+In this project we will create online electronic shop online.
